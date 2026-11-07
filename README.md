@@ -109,7 +109,7 @@ All three models were evaluated on an unseen $20\%$ stratified test set ($1,034$
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RazaJavaid/Spam-Shield.git
+git clone https://github.com/RazaJavaid2004/Spam-Shield.git
 cd SpamShield
 ```
 
