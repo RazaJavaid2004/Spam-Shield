@@ -1,0 +1,6 @@
+=== MODEL EVALUATION REPORT ===
+
+              Model  Accuracy  Precision   Recall  F1-Score
+        Naive Bayes  0.969052   0.980583 0.770992  0.863248
+Logistic Regression  0.956480   0.977778 0.671756  0.796380
+         Linear SVM  0.980658   0.974359 0.870229  0.919355
